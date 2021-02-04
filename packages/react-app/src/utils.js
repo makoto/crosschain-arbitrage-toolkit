@@ -4,7 +4,7 @@ import { abis } from "@project/contracts";
 import { from } from "apollo-boost";
 const MATIC_USDC_ADDRESS = '0x2791bca1f2de4661ed88a30c99a7a9449aa84174'
 const MATICCHAIN_ENDPOINT = 'https://rpc-mainnet.maticvigil.com/'
-const ETHEREUM_ENDPOINT = ''
+const ETHEREUM_ENDPOINT = 'https://mainnet.infura.io/v3/b57c52a0b5e04b81919ffd2fccb735d8'
 export const BASE_TOKEN = {
   address:'0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
   symbols:'USDC',

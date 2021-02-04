@@ -70,6 +70,7 @@ export default function Historical({targetTokenId, baseTokenId, rootClient}) {
   return(
     <>
       <h2>Historical Data</h2>
+      {historyData2?.length === 0 && ('(Mainnet data not available)')}
       <SlideContainer>
         <p>
           Plotting { num } points btw { historyData[0].date } and { historyData[num - 1].date } 

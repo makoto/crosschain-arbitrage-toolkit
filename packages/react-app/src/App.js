@@ -165,10 +165,10 @@ function App({ rootClient, mappingClient }) {
     console.log('***mainnetPrice', {mainnetPrice})
     return (
       <>
-        <Header>🦋 Crosschain Arbitrage 🦅 opportunity graph 📈 </Header>
+        <Header>🐈CAT(Crosschain Arbitrage Toolkit) </Header>
         <Container>
           <p>
-            This site allows you to observe the historical price margins of ERC20 tokens between Ethereum Mainnet and <Link href="https://www.maticchain.com/">Matic side chain</Link> as well as simulate the range of exchange amount to maximize the profit.
+            CAT allows you to observe the historical price margins of ERC20 tokens between Ethereum Mainnet and <Link href="https://www.maticchain.com/">Matic side chain</Link> as well as simulate the range of exchange amount to maximize the profit.
           </p>
           <div>
             <Select
