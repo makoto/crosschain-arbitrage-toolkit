@@ -2,7 +2,7 @@
 
 # CAT(Crosschain Arbitrage Toolkit)🐈
 
-![](./hero.png)
+![](./cat.png)
 
 Cat(Crosschain Arbitrage Toolkit) allows you to observe the historical price margins of ERC20 tokens between Ethereum Mainnet and Matic side chain.
 
