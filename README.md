@@ -6,7 +6,7 @@
 
 Cat(Crosschain Arbitrage Toolkit) allows you to observe the historical price margins of ERC20 tokens between Ethereum Mainnet and Matic side chain.
 
-- [Explainer video]()
+- [Explainer video](https://www.youtube.com/watch?v=9wyroTm39C8)
 - [Demo site](https://crosschain-arbitrage-toolkit.surge.sh)
 
 ## How to set up
